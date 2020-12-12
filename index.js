@@ -1,1 +1,1 @@
-let divide = (param1, param2) => param2 / param1
+let divide = (param1, param2) => param1 / param2
