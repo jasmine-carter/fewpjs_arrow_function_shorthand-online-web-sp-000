@@ -1,1 +1,1 @@
-let divide = () => param1 / param2
+let divide = () => 2000 /100
